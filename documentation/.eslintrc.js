@@ -6,7 +6,5 @@ module.exports = {
         jQuery: false,
         JSZip: false,
         JSZipUtils: false,
-        // From FileSaver.js
-        saveAs: false,
     },
 };
