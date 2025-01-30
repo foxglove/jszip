@@ -44,7 +44,6 @@
     "benchmark": "^2.1.4",
     "eslint": "^8.18.0",
     "http-server": "^13.0.2",
-    "jszip-utils": "~0.0.2",
     "playwright": "^1.15.2",
     "qunit": "~2.9.2",
     "tmp": "0.0.28"
